@@ -13,7 +13,8 @@ This gallery shows a mix of my favorite coffee drinks.
 ## Run the App
 1. Clone the repo:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/taraamin/entertainement-gallery.git
+
 
 2. Install dependecies:
    ```bash
